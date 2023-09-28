@@ -3,6 +3,8 @@
 
 ## Author : [Alirezash2004](https://github.com/alirezash2004/)
 
+![app preview](https://github.com/alirezash2004/python_text_encoder_decoder/blob/master/preview.png?raw=true)
+
 > **How to use:**
 1. Install Essential Libraries From requirements.txt file by the following command:
 > `pip install -r requirements.txt`
